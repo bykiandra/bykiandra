@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2 align="center">Hi 👋, I'm Kiandra</h2>
 
-<!--
-**Saoskia/Saoskia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="images/laptop-girl.gif" width="160px" align="right"/>
 
-Here are some ideas to get you started:
+💻 &nbsp; I'm working on **my personal website**  
+🎮 &nbsp; My next project will be **my first video game**  
+🌱 &nbsp; I’m currently learning **React & Typescript**  
+⚡ &nbsp; Fun fact: **I don't like ☕️**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><h4>Languages & Frameworks</h4>
+<img src="images/html.svg"/>
+<img src="images/css.svg"/>
+<img src="images/javascript.svg"/>
+<img src="images/vue.svg"/>
+<img src="images/php.svg"/>
+<img src="images/mysql.svg"/>
+<img src="images/python.svg"/>
+<img src="images/java.svg"/>
+<img src="images/csharp.svg"/></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=crownedfoxes&show_icons=true&locale=en&layout=compact" alt="crownedfoxes" /></p>
