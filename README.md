@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Kiandra</h2>
 
-<img src="images/laptop-girl.gif" width="250px" align="right"/>
+<img src="images/laptop-girl.gif" width="330px" align="right"/>
 
 💻 &nbsp; I'm working on **my personal website**  
 🎮 &nbsp; My next project will be **my first video game**  
