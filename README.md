@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Kiandra</h2>
 
-<img src="images/laptop-girl.gif" width="160px" align="right"/>
+<img src="images/laptop-girl.gif" width="250px" align="right"/>
 
 💻 &nbsp; I'm working on **my personal website**  
 🎮 &nbsp; My next project will be **my first video game**  
@@ -18,4 +18,4 @@
 <img src="images/java.svg"/>
 <img src="images/csharp.svg"/></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=crownedfoxes&show_icons=true&locale=en&layout=compact" alt="crownedfoxes" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=crownedfoxes&show_icons=true&locale=en&layout=compact" alt="crownedfoxes" /></p>
