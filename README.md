@@ -18,4 +18,4 @@
 <img src="images/java.svg"/>
 <img src="images/csharp.svg"/></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=crownedfoxes&show_icons=true&locale=en&layout=compact" alt="crownedfoxes" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=crownedfoxes&langs_count=8&show_icons=true&locale=en&layout=compact" alt="crownedfoxes" /></p>
