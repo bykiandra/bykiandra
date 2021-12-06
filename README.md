@@ -2,15 +2,17 @@
 
 <img src="images/laptop-girl.gif" width="330px" align="right"/>
 
-💻 &nbsp; I'm working on **my personal website**  
-🎮 &nbsp; My next project will be **my first video game**  
-🌱 &nbsp; I’m currently learning **React & Typescript**  
+💻 &nbsp; I'm working on **building web apps**  
+🎮 &nbsp; My side project is **my first video game**  
+🌱 &nbsp; I’m currently learning **Redux & Express**  
 ⚡ &nbsp; Fun fact: **I don't like ☕️**
 
 <h4>Languages & Frameworks</h4>
 <p style="display:flex;flex-direction:row"><img src="images/html.svg"/>
 <img src="images/css.svg"/>
 <img src="images/javascript.svg"/>
+<img src="images/typescript.svg"/>
+<img src="images/react.svg"/>
 <img src="images/vue.svg"/>
 <img src="images/php.svg"/>
 <img src="images/mysql.svg"/>
