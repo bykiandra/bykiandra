@@ -3,8 +3,7 @@
 <img src="images/laptop-girl.gif" width="330px" align="right"/>
 
 💻 &nbsp; I'm working on **building web apps**  
-🎮 &nbsp; My side project is **my first video game**  
-🌱 &nbsp; I’m currently learning **Redux & Express**  
+🌱 &nbsp; I’m currently learning **React Redux & Router**  
 ⚡ &nbsp; Fun fact: **I don't like ☕️**
 
 <h4>Languages & Frameworks</h4>
