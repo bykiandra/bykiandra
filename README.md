@@ -3,7 +3,7 @@
 <img src="images/laptop-girl.gif" width="330px" align="right"/>
 
 💻 &nbsp; I'm working on **building web apps**  
-🌱 &nbsp; I’m currently learning **React Router**  
+🌱 &nbsp; I’m currently learning **Next.js**  
 ⚡ &nbsp; Fun fact: **I don't like ☕️**
 
 <h4>Languages & Frameworks</h4>
